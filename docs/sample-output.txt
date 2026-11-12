@@ -1,0 +1,16 @@
+Testing Patient Records...
+ID: 101, Name: Ghadi, Age: 21, Contact: 00000000001
+Medical History: []
+ID: 102, Name: Joud, Age: 20, Contact: 00000000002
+Medical History: []
+
+Testing Emergency Queue...
+Treating Patient: Joud
+
+Testing Treatment History...
+Treatment History: [Amoxicillin 500mg, Panadol Extra, Vitamin D3]
+Last Treatment: Vitamin D3
+
+Testing Doctor Assignments...
+Doctor ID: 201, Name: Dr. Rana, Department: Psychiatry, Schedule: 8AM-6PM
+Doctor ID: 202, Name: Dr. Sahar, Department: Neurology, Schedule: 11AM-8PM
